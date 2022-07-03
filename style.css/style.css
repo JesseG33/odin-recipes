@@ -1,0 +1,20 @@
+h1, h2 {
+    font-family: cursive;
+    color: burlywood;
+    font-size: 50px;
+    background-color: brown;
+}
+h2{
+    font-size: 40px;
+}
+div.i{
+    font-size: 30px;
+    color: black;
+}
+
+
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
