@@ -16,5 +16,17 @@ div.i{
 body{
     background-color: burlywood;
     text-align: center;
+    margin-inline: 20%; 
 }
-
+.kenya{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
